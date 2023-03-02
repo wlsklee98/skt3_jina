@@ -1,9 +1,6 @@
 1
 2
-<<<<<<< HEAD
 m3
 m4
-=======
 new exp1
 new exp2
->>>>>>> exp
